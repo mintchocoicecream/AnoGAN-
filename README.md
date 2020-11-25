@@ -17,6 +17,10 @@
 - h5py >= 2.7.1
 - six >= 1.11.0
 
+## AnoGAN
+- AnoGAN Train : AnoGAN Model train.py
+- AnoGAN Test : AnoGAN config.py 주석변경후 테스트
+
 ## Dataset
 - Train datasets : train -- 제네시스 G80 핸들 통화버튼 & 통화종료버튼 각 44장
 - Test datasets : validation -- 제니시스 G80 핸들 정상이미지 & 비정상이미지
@@ -25,4 +29,4 @@
 - tfutil.py -- AnomalyDetection <- AnomalyScore추가
 
 ## Output
-- Program -- 오류검출프로그램code
+- Program -- 오류검출프로그램
