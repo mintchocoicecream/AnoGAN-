@@ -30,3 +30,4 @@
 
 ## Output
 - Program -- 오류검출프로그램
+- UI -- QT Designer
