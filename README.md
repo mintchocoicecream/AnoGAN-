@@ -30,9 +30,13 @@
 
 ## Output
 - Program -- 오류검출프로그램
--- Login
+
+- Login
+
 ![prlogin](https://user-images.githubusercontent.com/64584574/102322700-cff3d180-3fc2-11eb-8813-ad8133207342.png)
--- Main Program
+
+- Main Program
+
 ![mainprogram](https://user-images.githubusercontent.com/64584574/102322995-3f69c100-3fc3-11eb-8818-6b644924dd39.png)
 
 
