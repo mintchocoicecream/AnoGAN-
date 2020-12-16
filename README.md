@@ -31,9 +31,9 @@
 ## Output
 - Program -- 오류검출프로그램
 -- Login
-![prlogin](https://user-images.githubusercontent.com/64584574/102322700-cff3d180-3fc2-11eb-8813-ad8133207342.png){:width="228" height="189"}
+![prlogin](https://user-images.githubusercontent.com/64584574/102322700-cff3d180-3fc2-11eb-8813-ad8133207342.png)
 -- Main Program
-![mainprogram](https://user-images.githubusercontent.com/64584574/102322995-3f69c100-3fc3-11eb-8818-6b644924dd39.png){:width="286" height="228"}
+![mainprogram](https://user-images.githubusercontent.com/64584574/102322995-3f69c100-3fc3-11eb-8818-6b644924dd39.png)
 
 
 - UI -- QT Designer
