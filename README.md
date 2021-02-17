@@ -1,6 +1,7 @@
 # AnoGAN
-## Tensorflow Deeplearning Final Project AnoGAN_자동차핸들오류검출
+## Tensorflow Deeplearning Final Project
 #### *Hyunjeong Seo, Hyunsuk Choi, Taekwan Kim*
+* AnoGAN 알고리즘을 이용한 자동차 핸들 오류 검출 프로그램
 
 참고 : https://github.com/amandaberg/GANanomalyDetection.git
 
@@ -32,12 +33,11 @@
 - Program -- 오류검출프로그램
 
 - Login
+<img src="https://user-images.githubusercontent.com/64584574/102322700-cff3d180-3fc2-11eb-8813-ad8133207342.png"  width="700" height="600">
 
-![prlogin](https://user-images.githubusercontent.com/64584574/102322700-cff3d180-3fc2-11eb-8813-ad8133207342.png)
 
 - Main Program
-
-![mainprogram](https://user-images.githubusercontent.com/64584574/102322995-3f69c100-3fc3-11eb-8818-6b644924dd39.png)
+<img src="https://user-images.githubusercontent.com/64584574/102322995-3f69c100-3fc3-11eb-8818-6b644924dd39.png"  width="700" height="600">
 
 
 - UI -- QT Designer
