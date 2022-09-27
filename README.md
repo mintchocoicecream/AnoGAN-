@@ -33,11 +33,10 @@
 - Program -- 오류검출프로그램
 
 - Login
-<img src="https://user-images.githubusercontent.com/64584574/102322700-cff3d180-3fc2-11eb-8813-ad8133207342.png"  width="700" height="600">
-
+<img src="https://user-images.githubusercontent.com/64584574/192470992-6cbca6c1-ef13-4f45-b681-b14d6a915509.PNG"  width="700">
 
 - Main Program
-<img src="https://user-images.githubusercontent.com/64584574/102322995-3f69c100-3fc3-11eb-8818-6b644924dd39.png"  width="700" height="600">
+<img src="https://user-images.githubusercontent.com/64584574/192471007-f1966ea9-ca8f-4510-9b69-bb6a6c365934.PNG"  width="700">
 
 
 - UI -- QT Designer
